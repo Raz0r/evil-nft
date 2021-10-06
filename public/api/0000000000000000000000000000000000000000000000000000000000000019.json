@@ -1,0 +1,5 @@
+{
+  "name": "SSRF_TEXTPATH_XLINK_HREF",
+  "description": "SSRF_TEXTPATH_XLINK_HREF",
+  "image": "https://evil-nft.vercel.app/exploits/SVG/SSRF/ssrf-textpath-xlink-href.svg",
+}

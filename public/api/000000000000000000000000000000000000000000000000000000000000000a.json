@@ -1,0 +1,5 @@
+{
+  "name": "CMDINJ_CVE_2020_29599",
+  "description": "CMDINJ_CVE_2020_29599",
+  "image": "https://evil-nft.vercel.app/exploits/SVG/Shell_Injection_CVE-2020-29599/cve-2020-29599-nslookup-dnsbased.svg",
+}

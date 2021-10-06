@@ -1,0 +1,5 @@
+{
+  "name": "SSRF_FOREIGNOBJECT_IMG_SRC",
+  "description": "SSRF_FOREIGNOBJECT_IMG_SRC",
+  "image": "https://evil-nft.vercel.app/exploits/SVG/SSRF/ssrf-foreignobject-img-src.svg",
+}

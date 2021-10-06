@@ -1,0 +1,5 @@
+{
+  "name": "XXE_LOCAL_FILE_READ",
+  "description": "XXE_LOCAL_FILE_READ",
+  "image": "https://evil-nft.vercel.app/exploits/SVG/XXE/xxe-local-file-read.svg",
+}
